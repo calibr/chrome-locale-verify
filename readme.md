@@ -10,4 +10,4 @@ Just run `chrome-locale-verify` in your extension folder.
 
 ###How it works?
 
-It parses `default_locale` from extension manifest and compares default locale messages and messages of other locales and show you the missed messages.
+It parses `default_locale` from your extension manifest and compares default locale messages with messages of other locales and shows you the missed ones.
